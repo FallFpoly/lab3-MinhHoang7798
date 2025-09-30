@@ -11,6 +11,7 @@ import java.util.Scanner;
  */
 public class bai4 {
 
+    
     public static String HocLuc(double diem) {
         if (diem >= 9) {
             return "Xuat Sac";

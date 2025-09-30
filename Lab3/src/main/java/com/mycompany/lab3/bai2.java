@@ -9,6 +9,7 @@ package com.mycompany.lab3;
  */
 public class bai2 {
 
+  
     public static void main(String[] args) {
         // Xuất 9 bảng cửu chương
         for (int i = 1; i <= 9; i++) {          // vòng lặp ngoài cho số từ 1 đến 9
