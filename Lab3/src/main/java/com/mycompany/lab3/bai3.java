@@ -23,7 +23,7 @@ public class bai3 {
 
         // nhập mảng
         for (int i = 0; i < n; i++) {
-            System.out.println("nhap a[" + i + "] = ");
+            System.out.println("nhap a" + i + " = ");
             a[i] = sc.nextInt();
         }
 
@@ -56,9 +56,9 @@ public class bai3 {
 
         if (dem > 0) {
             double tbc = (double) tong / dem;
-            System.out.println("trung binh cong cac phan tu chia het cho 3 = " + tbc);
+            System.out.println("TB cong cac phan tu chia het cho 3 = " + tbc);
         } else {
-            System.out.println("khong co phan tu nao chia het cho 3");
+            System.out.println("ko co phan tu nao chia het cho 3");
         }
     }
 }
